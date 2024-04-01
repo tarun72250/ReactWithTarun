@@ -1,0 +1,69 @@
+Chapter :-1
+Basic Understanding before learning React
+
+What will be covered in this chapter 
+Why to learn React
+When should You learn react
+Why react was created
+Don't learn React if 
+React Learning Process
+React is a library
+Difference btw Library and Framework
+Topics to most imp in React
+Additional things add-on in react
+
+
+Why Learn React:
+Popular demand and job opportunities.
+Efficient development with component-based architecture.
+Improved performance and smoother user experiences.
+Strong community support for learning and development.
+
+When should I Learn React:
+after mastering in js ,
+Mostly projects don't need react on their early stage.
+
+Why react was created
+Phantom message Problem in Facebook
+No consistency in UI
+State as well as DOM They can't talk with each other.
+To solve this problem react library was created.
+
+Don't learn React if 
+If you don't working with javascript or DOM Manipulation.
+
+In short, the React learning process involves:
+Understanding JavaScript basics.
+Learning React fundamentals like components and state.
+Practicing with small projects.
+Exploring related libraries like React Router and Redux.
+Some Basic React Hooks.
+Building real-world projects.
+Staying updated with React's latest features.
+
+React is a library
+React is commonly referred to as a JavaScript library for building user interfaces.
+React's primary focus is on the view layer of web applications, providing developers with a component-based architecture for building reusable UI components. It efficiently updates and renders the user interface by using a virtual DOM and optimizing the rendering process.
+
+Difference btw Library and Framework
+Image:-
+
+Topics to most imp in React
+Components
+JSX
+State and Props
+Lifecycle Methods
+React Hooks
+Virtual DOM
+React Router
+State Management (e.g., Redux)
+
+Additional things add-on in react
+Router:-(React don't have Router) for using this additional package install.
+React Applications are considered as SPA (Single Page Application).
+Like u have an URL :- https:\\localhost:3000\\logincheck\home 
+https:\\localhost:3000\\logincheck\about
+https:\\localhost:3000\\logincheck\carriers
+routing how would be provide these 
+State Management:-(React don't have State Management)
+So we use Redux, Redux_toolkit,Zustand,Context-Api
