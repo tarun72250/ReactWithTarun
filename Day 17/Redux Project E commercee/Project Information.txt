@@ -1,0 +1,8 @@
+1.If u wanted to start this project 
+go inside this folder and download node modules inside this folder
+cmd 
+npm i
+
+2.and then state cmd like 
+npm run start 
+
